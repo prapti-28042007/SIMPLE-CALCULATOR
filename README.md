@@ -11,7 +11,7 @@ Features:
 
 Technologies Used:
 - **Language:** C  
-- **Compiler:** GCC  / Turbo C / Code::Blocks / Online C Compiler(GCD)
+- **Compiler:** Online C Compiler(GCD)
 - **Concepts Covered:** Switch-case, Conditional Logic, I/O Operations, Arithmetic Operators
 
 How It Works:
